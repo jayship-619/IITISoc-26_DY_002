@@ -10,7 +10,7 @@
 
 ### Online Courses & Videos
 * [YouTube: Continuum Mechanics — Prof. Bob McGinty (Course Channel)](https://www.youtube.com/@onlinecourseoncontinuummec2871/courses)
-* [YouTube: Continuum Mechanics (Specific Video)](https://www.youtube.com/watch?v=7Ieq2e6Z4ac)
+* [YouTube: Continuum Mechanics (Video by Gustav Mahler)](https://www.youtube.com/watch?v=7Ieq2e6Z4ac)
 
 ### LAMMPS Documentation
 * [LAMMPS `fix deform`](https://docs.lammps.org/fix_deform.html)
